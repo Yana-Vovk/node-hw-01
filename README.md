@@ -1,3 +1,8 @@
+https://monosnap.com/file/QS7V2IBlYYmsWbDKxVTkncrBHRgps6
+https://monosnap.com/file/HjKB947C39mgRqBhC3ZvaFzmDZXMcO
+https://monosnap.com/file/kr97xboNGlr0Ayji33KT6FbPSCPyTJ
+https://monosnap.com/file/eFHn5aRfixQS7EMpZIyaqqoh2P3EiI
+
 $ npm init
 
 $ npm i nodemon
